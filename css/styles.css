@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+}
+
+main{
+    padding-top: 35px;
+    padding-left: 35px;
+}
+
+h1{
+    color: blue;
+}
+
+h3{
+    color: green;
+}
